@@ -7,11 +7,11 @@ assignees: ''
 
 ---
 
-**Before Submitting an Incident, be sure to**
-- [ ] Updated to the latest stable version.
+**Before Submitting, be sure to**
+- [ ] Update to the latest stable version.
 - [ ] Read and follow the guides described in the [documentation](https://docs.regulaforensics.com?utm_source=github).
-- [ ] Tried to reproduce in our demo project, and it reproduces.
-- [ ] Searched for your issue in the existing GitHub issues.
+- [ ] Try to reproduce in our demo project.
+- [ ] Search for your issue in the existing GitHub issues.
 
 **Bug Description**
 <!--A clear and concise description of what the bug is.-->
@@ -28,9 +28,9 @@ assignees: ''
 <!--A clear and concise description of what you expected to happen.-->
 
 **Screenshots**
-<!--If applicable, add screenshots to help explain your problem.-->
+<!--If applicable, add screenshots to help explain your issue.-->
 
-**Environment (please complete the following information, if applicable):**
+**Environment:**
  - Device: <!--[e.g. iPhone 12]-->
  - OS version: <!--[e.g. 10.0]-->
 
