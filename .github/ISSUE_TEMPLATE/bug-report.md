@@ -8,10 +8,10 @@ assignees: ''
 ---
 
 **Before Submitting an Incident, be sure to**
-- [] Updated to the latest stable version.
-- [] Read and follow the guides described in the [documentation](https://docs.regulaforensics.com?utm_source=github).
-- [] Tried to reproduce in our demo project, and it reproduces.
-- [] Searched for your issue in the existing GitHub issues.
+- [ ] Updated to the latest stable version.
+- [ ] Read and follow the guides described in the [documentation](https://docs.regulaforensics.com?utm_source=github).
+- [ ] Tried to reproduce in our demo project, and it reproduces.
+- [ ] Searched for your issue in the existing GitHub issues.
 
 **Bug Description**
 <!--A clear and concise description of what the bug is.-->
